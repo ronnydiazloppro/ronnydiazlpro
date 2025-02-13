@@ -1,5 +1,5 @@
 
-[![Header](https://app.netlify.com/sites/ronnydiazlpro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+[![Header](https://github.com/ronnydiazloppro/ronnydiazlpro/blob/main/banner%20github.png "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
 
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
