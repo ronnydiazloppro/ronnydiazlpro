@@ -1,6 +1,91 @@
+element.style {
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+user agent stylesheet
+head {
+    display: none;
+}
 :root {
-
-
-
-    
+    --limite: 120em;
+    --negro: #181818;
+    --blanco: #f1f0f0;
+    --principal: #4d94b3;
+    --secundario: #6cccb4;
+    --terciario: #8f6ccc;
+}
+:root {
+    --limite: 120em;
+    --negro: #181818;
+    --blanco: #f1f0f0;
+    --principal: #4d94b3;
+    --secundario: #6cccb4;
+    --terciario: #8f6ccc;
+}
+*:before, *:after {
+    display: block;
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+*:before, *:after {
+    display: block;
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+*:before, *:after {
+    display: block;
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+*:before, *:after {
+    display: block;
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--principal);
+    border-radius: 1em;
+}
+::-webkit-scrollbar-track {
+    background: var(--negro);
+    cursor: pointer;
+}
+::selection {
+    background-color: #6cccb4;
+    color: var(--negro);
 }
