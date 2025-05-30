@@ -15,8 +15,8 @@
 
 
 ## 👉 Sobre mí
-Soy un **Asesor de Proyectos de Desarrollo Sostenible**, **Desarrollador Web** y **Profesor en la academia particular [ProyectaT](https://app.netlify.com/sites/ronnydiazlpro/proyecta-t/contacto-ronnydiazlop)** centrado en el desarrollo de proyectos sostenibles para comunidades y uso de tecnologias.
-Al mismo tiempo **grabo y publico vídeos en RRSS y [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/eduardofierropro)** y **trucos rápidos en [TikTok](http://tiktok.com/@eduardofierro.pro)**
+Soy un **Asesor de MicroProyecto Familiar Sostenible**, **Desarrollador Web + IA Aplicada** y **Profesor** centrado en ayudar a personas, familias y empresas a ir de su idea de MicroProyecto Sostenible a la Acción con uso de tecnologias y de la IA.
+Al mismo tiempo **creo contenidos para mis RRSS y [Youtube](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g)**.
 
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
