@@ -2,10 +2,10 @@
 [![Header](https://github.com/ronnydiazloppro/ronnydiazlpro/blob/main/banner%20github.png "Header")](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g)
 
 
-[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
-[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eduardofierropro)
-[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/t4Txush)
-[![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/edfierropro)
+[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ronny-diaz-lopez-888983311/)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/channels/1378033658190889092/1378034247641727139)
+[![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/sevimed1737051)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro)
 [![colaboración](https://img.shields.io/static/v1?label=&message=colaboracion&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
 
